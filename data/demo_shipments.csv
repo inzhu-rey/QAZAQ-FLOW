@@ -1,0 +1,12 @@
+
+id,origin,destination,cargo,weight_tons,status
+1,Kazakhstan,Uzbekistan,Food products,5,Available
+2,Germany,Poland,Electronics,8,Available
+3,Turkey,Kazakhstan,Textiles,12,Available
+4,Uzbekistan,Kyrgyzstan,Fruits,4,Available
+5,China,Kazakhstan,Equipment,10,Available
+6,Poland,Germany,Furniture,7,Available
+7,Kazakhstan,China,Metals,15,Available
+8,Kyrgyzstan,Uzbekistan,Agricultural goods,3,Available
+9,China,Germany,Machinery,9,Available
+10,Turkey,Poland,Clothing,6,Available
